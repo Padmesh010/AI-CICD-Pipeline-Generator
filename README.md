@@ -43,13 +43,52 @@ AI CI/CD Pipeline Generator helps developers automatically create production-rea
 
 ## 🖥 Screenshots
 
-(Add your screenshots here)
+<img width="1085" height="718" alt="image" src="https://github.com/user-attachments/assets/b0ea742f-187d-4167-ae63-61b01f85c40d" />
+<img width="1098" height="723" alt="image" src="https://github.com/user-attachments/assets/d688124b-9cce-48f6-991a-27b4a6dcd544" />
+<img width="1090" height="711" alt="image" src="https://github.com/user-attachments/assets/39dc9d36-87a6-40e0-b61e-c241a049cb7b" />
+
+
+
+
 
 ---
 
 ## 🏗 Architecture
-
-(Add architecture image)
+            +----------------------+
+            |     Project Wizard   |
+            +----------+-----------+
+                       |
+                       v
+            +----------------------+
+            | Repository Scanner   |
+            +----------+-----------+
+                       |
+                       v
+            +----------------------+
+            | Pipeline Generator   |
+            +----------+-----------+
+                       |
+        +--------------+--------------+
+        |              |              |
+        v              v              v
+   GitHub Actions   Dockerfile    Kubernetes
+        |              |              |
+        +--------------+--------------+
+                       |
+                       v
+            +----------------------+
+            | Security Validator   |
+            +----------+-----------+
+                       |
+                       v
+            +----------------------+
+            | Pipeline Simulator   |
+            +----------+-----------+
+                       |
+                       v
+            +----------------------+
+            | Export Service       |
+            +----------------------+
 
 ---
 
