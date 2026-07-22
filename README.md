@@ -43,9 +43,14 @@ AI CI/CD Pipeline Generator helps developers automatically create production-rea
 
 ## 🖥 Screenshots
 
-<img width="1085" height="718" alt="image" src="https://github.com/user-attachments/assets/b0ea742f-187d-4167-ae63-61b01f85c40d" />
-<img width="1098" height="723" alt="image" src="https://github.com/user-attachments/assets/d688124b-9cce-48f6-991a-27b4a6dcd544" />
-<img width="1090" height="711" alt="image" src="https://github.com/user-attachments/assets/39dc9d36-87a6-40e0-b61e-c241a049cb7b" />
+<img width="1357" height="714" alt="Screenshot 2026-07-21 213537" src="https://github.com/user-attachments/assets/a4333191-94a6-45f3-b052-cbbf0f3b0f58" />
+<img width="1359" height="714" alt="Screenshot 2026-07-21 213553" src="https://github.com/user-attachments/assets/633fb036-6562-480a-ae07-711f49349d0f" />
+<img width="1049" height="714" alt="Screenshot 2026-07-21 221616" src="https://github.com/user-attachments/assets/b40b0541-8bd5-47bf-81b8-94d56db5e9ba" />
+<img width="1081" height="696" alt="Screenshot 2026-07-21 221845" src="https://github.com/user-attachments/assets/d1da457a-e27a-4d13-ad39-e9a74c3b0583" />
+<img width="1075" height="723" alt="Screenshot 2026-07-21 222020" src="https://github.com/user-attachments/assets/11fdbdb2-184c-4e42-9f0c-245246050c3a" />
+
+
+
 
 
 
